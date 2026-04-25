@@ -1,0 +1,10 @@
+services:
+  champ:
+    image: docker.io/asmrcka/its2026app:1
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      CHAMP_APP_NAME: CHAMP Backend (docker compose)
+      CHAMP_DATABASE_URL: sqlite+pysqlite:////tmp/champ.db
+      CHAMP_SEED_DEMO_DATA: "true"
