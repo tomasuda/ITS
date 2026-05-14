@@ -1,31 +1,31 @@
-###hodnotenie: 
+### Hodnotenie
 
-##1
-19: celkem bodu
+## 1
+**Celkový počet bodov:** 19
 
-1: features: ok
-2: scenarios: ok
-1: syntax: ok
-2: scenario-depth: ok
-1: clauses: je tam prilis samostatnych/unikatnich klauzuli -> tezke na implementaci
-2: report-test_items: ok
-1: report-coverage: ok
-2: scope: dobre pokryva vsechny 4 povinne oblasti zadani
-2: core_flows: zachycuje vazby mezi members teams a users vcetne filtru nebo relaci
-1: rbac: role jsou pritomne, ale spise povrchove bez silnejsich omezeni akci
-2: payments: pokryva pripravu plateb, parovani i opravne nebo storno toky
-1: traceability: README matice jsou citelne a dobre propojuji testy s feature soubory
-1: bdd_quality: scenare pusobi rozumne implementovatelne a nejsou jen sled UI kliku
+*   **Features (1):** OK
+*   **Scenarios (2):** OK
+*   **Syntax (1):** OK
+*   **Scenario-depth (2):** OK
+*   **Clauses (1):** Je tam príliš samostatných/unikátnych klauzúl (ťažké na implementáciu).
+*   **Report-test_items (2):** OK
+*   **Report-coverage (1):** OK
+*   **Scope (2):** Dobre pokrýva všetky 4 povinné oblasti zadania.
+*   **Core_flows (2):** Zachytáva väzby medzi members, teams a users vrátane filtrov alebo relácií.
+*   **Rbac (1):** Role sú prítomné, ale skôr povrchovo bez silnejších obmedzení akcií.
+*   **Payments (2):** Pokrýva prípravu platieb, párovanie aj opravné alebo storno toky.
+*   **Traceability (1):** README matice sú čitateľné a dobre prepojujú testy s feature súbormi.
+*   **Bdd_quality (1):** Scenáre pôsobia rozumne implementovateľne a nie sú len sled UI klikov.
 
+---
 
-##2
+## 2
+**Celkový počet bodov:** 19.8
 
-19.8: celkem bodu
-
-7: efektivita: ok
-3.8: widgets: mensi pokryti GUI prvku
-4: actions: ok
-2: asserts: ok
-1: readability: ok
-0: maptable: chybna struktura tabulky (neodpovida zadani)
-2: mapping: ok
+*   **Efektivita (7):** OK
+*   **Widgets (3.8):** Menšie pokrytie GUI prvkov.
+*   **Actions (4):** OK
+*   **Asserts (2):** OK
+*   **Readability (1):** OK
+*   **Maptable (0):** Chybná štruktúra tabuľky (neodpovedá zadaniu).
+*   **Mapping (2):** OK
